@@ -1,11 +1,11 @@
 let fs = require('fs')
 
 module.exports = {
-name: ["delprem"],
+name: ["silprem"],
 type: ["owner"],
 owner: true,
 description: "join grup from link",
-utilisation: userbot.prefix + "delprem",
+utilisation: userbot.prefix + "silprem",
 
 async execute(m) {
 let { conn, text } = data
